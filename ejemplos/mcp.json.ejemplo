@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "mi-servidor-ejemplo": {
+      "command": "comando-del-servidor",
+      "args": ["--ejemplo"],
+      "env": {
+        "API_TOKEN": "TU_TOKEN_DESDE_VARIABLE_DE_ENTORNO"
+      }
+    }
+  }
+}
+
+No pongas una credencial real dentro de un repositorio. Usa variables de entorno o el método de autenticación recomendado por el servidor MCP.
