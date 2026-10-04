@@ -1,0 +1,32 @@
+# CLAUDE.md
+
+## Producto
+Aplicación de ejemplo.
+
+## Stack
+- Backend: ...
+- Frontend: ...
+- Base de datos: ...
+
+## Comandos
+- tests: ...
+- lint: ...
+- build: ...
+
+## Convenciones
+- ...
+
+## Seguridad
+- no leer ni publicar secretos;
+- no ejecutar operaciones destructivas sin aprobación.
+
+## Git
+- revisar git status antes de modificar;
+- no force push;
+- no descartar cambios ajenos.
+
+## Definition of done
+- tests relevantes pasan;
+- lint/build pasan cuando correspondan;
+- diff revisado;
+- riesgos restantes reportados.
