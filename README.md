@@ -31,8 +31,14 @@ No leas todo de una vez. Sigue este orden:
 12. [`docs/11-SEGURIDAD.md`](docs/11-SEGURIDAD.md)
 13. [`docs/12-SOLUCION-DE-PROBLEMAS.md`](docs/12-SOLUCION-DE-PROBLEMAS.md)
 14. [`docs/13-CHEATSHEET.md`](docs/13-CHEATSHEET.md)
+15. [`docs/14-GLOSARIO.md`](docs/14-GLOSARIO.md)
+16. [`docs/15-REFERENCIAS-OFICIALES.md`](docs/15-REFERENCIAS-OFICIALES.md)
+17. [`docs/16-AGENT-LOOPS-Y-AUTOMATIZACION.md`](docs/16-AGENT-LOOPS-Y-AUTOMATIZACION.md) — avanzado
+18. [`docs/17-PATRONES-DE-AGENTES.md`](docs/17-PATRONES-DE-AGENTES.md) — avanzado
 
 Después prueba el mini laboratorio de [`playground/`](playground/README.md).
+
+Cuando domines lo básico, entra a **Agent loops y automatización**. Ahí aprenderás a diseñar agentes que iteran, se validan, coordinan workers y escalan al humano solo cuando hace falta.
 
 ---
 
