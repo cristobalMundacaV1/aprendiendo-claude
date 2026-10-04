@@ -1,0 +1,9 @@
+# CLAUDE.local.md
+
+Preferencias locales de ejemplo:
+
+- el backend local corre en el puerto 8000;
+- no hacer commits automáticamente;
+- usar únicamente servicios de desarrollo locales.
+
+Ignóralo en Git si contiene preferencias exclusivamente personales.
